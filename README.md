@@ -27,7 +27,7 @@ A sleek and collaborative **Kanban board application** built to streamline task 
 
 | Frontend | Backend | Databases | Others |
 |----------|---------|-----------|--------|
-| React + MUI | Spring Boot (Java) | MongoDB, SQL (e.g., MySQL/PostgreSQL) | JWT, Axios, Docker (optional) |
+| React + MUI | Spring Boot (Java) | MongoDB, SQL (e.g., MySQL) | JWT, Axios) |
 
 ---
 
