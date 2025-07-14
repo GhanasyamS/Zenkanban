@@ -41,14 +41,14 @@ A sleek and collaborative **Kanban board application** built to streamline task 
 ## 📂 Project Structure
 
 zenkanban/
-├── frontend/
-│ └── zenkanban-ui/
-├── backend/
-│ ├── api-gateway/
-│ ├── eureka-service/
-│ ├── user-service/
-│ ├── task-service/
-│ ├── board-service/
-│ ├── authentication-service/
-│ ├── passwordreset-service/
-│ └── email-service/
+├── frontend/<br>
+│ └── zenkanban-ui/<br>
+├── backend/<br>
+│ ├── api-gateway/<br>
+│ ├── eureka-service/<br>
+│ ├── user-service/<br>
+│ ├── task-service/<br>
+│ ├── board-service/<br>
+│ ├── authentication-service/<br>
+│ ├── passwordreset-service/<br>
+│ └── email-service/<br>
