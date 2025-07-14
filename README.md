@@ -1,4 +1,4 @@
-# 🧠 Zenkanban
+# 🧘🏻‍♂️Zenkanban
 
 A sleek and collaborative **Kanban board application** built to streamline task visualization, improve workflow, and enhance team productivity.
 
