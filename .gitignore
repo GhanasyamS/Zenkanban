@@ -1,0 +1,22 @@
+# Secrets and config
+/config/application-secrets.properties
+
+# Node.js
+node_modules/
+.env
+
+# Java/Maven
+**/target/
+*.log
+*.class
+*.jar
+*.war
+
+# Spring sensitive configs
+**/application.properties
+**/application.yml
+
+# IDE/OS junk
+.vscode/
+.idea/
+.DS_Store
