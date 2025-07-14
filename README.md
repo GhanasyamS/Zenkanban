@@ -18,7 +18,8 @@ A sleek and collaborative **Kanban board application** built to streamline task 
 
 ## 📸 Screenshots
 
-> *(Add screenshots or demo GIFs here)*
+><img width="1896" height="586" alt="image" src="https://github.com/user-attachments/assets/16fe8f52-825d-40e6-ab19-27e84ec370d5" />
+
 
 ---
 
