@@ -40,7 +40,7 @@ A sleek and collaborative **Kanban board application** built to streamline task 
 
 ## 📂 Project Structure
 
-zenkanban/
+zenkanban/<br>
 ├── frontend/<br>
 │ └── zenkanban-ui/<br>
 ├── backend/<br>
