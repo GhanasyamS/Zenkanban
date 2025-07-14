@@ -6,13 +6,14 @@ A sleek and collaborative **Kanban board application** built to streamline task 
 
 ## 🚀 Features
 
-✅ **User Authentication** (JWT-based)  
-✅ **Team and Board Management**  
-✅ **Drag-and-Drop Task Workflow**  
-✅ **Task Prioritization and Deadlines**  
-✅ **Microservices Architecture**  
-✅ **MongoDB + SQL Integration**  
-✅ **MUI + React Frontend**
+✅ JWT-based User Authentication  
+✅ Role-based Access & Team Management  
+✅ Drag-and-Drop Task Workflow  
+✅ Board + Task Management with Deadlines  
+✅ Email Notifications (via Email Service)  
+✅ Secure Password Reset Service  
+✅ API Gateway + Eureka Service Discovery  
+✅ MongoDB & SQL DB Integration
 
 ---
 
@@ -25,11 +26,29 @@ A sleek and collaborative **Kanban board application** built to streamline task 
 
 ## 🛠 Tech Stack
 
-| Frontend | Backend | Databases | Others |
-|----------|---------|-----------|--------|
-| React + MUI | Spring Boot (Java) | MongoDB, SQL (e.g., MySQL) | JWT, Axios) |
+| Layer       | Tech Stack |
+|-------------|------------|
+| Frontend    | React + MUI |
+| Backend     | Spring Boot (Java) Microservices |
+| Gateway     | Spring Cloud Gateway (API Gateway) |
+| Service Registry | Eureka Server |
+| Auth        | JWT, Spring Security |
+| Database    | MongoDB (Tasks), SQL (Users/Auth/Boards) |
+| Others      | Axios, Email API |
 
 ---
 
 ## 📂 Project Structure
 
+zenkanban/
+├── frontend/
+│ └── zenkanban-ui/
+├── backend/
+│ ├── api-gateway/
+│ ├── eureka-service/
+│ ├── user-service/
+│ ├── task-service/
+│ ├── board-service/
+│ ├── authentication-service/
+│ ├── passwordreset-service/
+│ └── email-service/
