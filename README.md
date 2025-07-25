@@ -8,10 +8,10 @@ A sleek and collaborative **Kanban board application** built to streamline task 
 
 ✅ JWT-based User Authentication  
 ✅ Role-based Access & Team Management  
-✅ Drag-and-Drop Task Workflow  
-✅ Board + Task Management with Deadlines  
+✅ Drag-and-Drop Task Workflow. 
+✅ Board + Task Management with Deadlines.
 ✅ Email Notifications (via Email Service)  
-✅ Secure Password Reset Service  
+✅ Secure Password Reset Service.
 ✅ API Gateway + Eureka Service Discovery.
 ✅ MongoDB & SQL DB Integration.
 
