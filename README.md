@@ -7,7 +7,7 @@ A sleek and collaborative **Kanban board application** built to streamline task 
 ## 🚀 Features
 
 ✅ JWT-based User Authentication  
-✅ Role-based Access & Team Management  
+✅ Role-based Access & Team Management.
 ✅ Drag-and-Drop Task Workflow. 
 ✅ Board + Task Management with Deadlines.
 ✅ Email Notifications (via Email Service)  
