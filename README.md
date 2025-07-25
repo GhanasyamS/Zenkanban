@@ -13,7 +13,7 @@ A sleek and collaborative **Kanban board application** built to streamline task 
 ✅ Email Notifications (via Email Service)  
 ✅ Secure Password Reset Service  
 ✅ API Gateway + Eureka Service Discovery  
-✅ MongoDB & SQL DB Integration
+✅ MongoDB & SQL DB Integration.
 
 ---
 
